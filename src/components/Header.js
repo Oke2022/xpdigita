@@ -95,27 +95,29 @@ const Header = () => {
                 /a>
             ))
         } { " " } <
-        /HStack>{" "} <
-        /nav>{" "} <
+        /HStack>{" "} < /
+        nav > { " " } <
         nav >
         <
         HStack spacing = { 8 } >
         <
-        a href = "/#projects-section"
+        a href = "#projects-section"
         onClick = {
-            (e) => handleClick(e, id) } >
+            (e) => handleClick(e, id)
+        } >
         Projects { " " } <
         /a>{" "} <
         a href = "mailto:xpdigita@gmail.com"
         onClick = {
-            (e) => handleClick(e, id) } >
+            (e) => handleClick(e, id)
+        } >
         Contact Me { " " } <
-        /a>{" "} <
-        /HStack>{" "} <
-        /nav>{" "} <
-        /HStack>{" "} <
-        /Box>{" "} <
-        /Box>
+        /a>{" "} < /
+        HStack > { " " } <
+        /nav>{" "} < /
+        HStack > { " " } <
+        /Box>{" "} < /
+        Box >
     );
 };
 
