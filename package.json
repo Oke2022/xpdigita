@@ -1,6 +1,6 @@
 {
     "homepage": "https://oke2022.github.io/xpdigita/",
-    "name": "graded-assessment",
+    "name": "xpdigita",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -24,9 +24,9 @@
         "yup": "^0.32.11"
     },
     "scripts": {
-        "start": "react-scripts start",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
+        "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
