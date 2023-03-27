@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/xpdigita/static/css/main.df6a7eab.css",
+    "main.js": "/xpdigita/static/js/main.3e4c0824.js",
+    "static/js/787.288af1c4.chunk.js": "/xpdigita/static/js/787.288af1c4.chunk.js",
+    "static/media/photo33.png": "/xpdigita/static/media/photo33.c892168349ccda108362.png",
+    "static/media/photo11.png": "/xpdigita/static/media/photo11.363d6dd323546bc194dd.png",
+    "static/media/photo22.png": "/xpdigita/static/media/photo22.772deaa94d99bb79bda4.png",
+    "static/media/photo44.png": "/xpdigita/static/media/photo44.732599c1279ebb086ab2.png",
+    "static/media/photo1.png": "/xpdigita/static/media/photo1.e2dc86b0b2da389d1303.png",
+    "index.html": "/xpdigita/index.html",
+    "main.df6a7eab.css.map": "/xpdigita/static/css/main.df6a7eab.css.map",
+    "main.3e4c0824.js.map": "/xpdigita/static/js/main.3e4c0824.js.map",
+    "787.288af1c4.chunk.js.map": "/xpdigita/static/js/787.288af1c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.3e4c0824.js"
+  ]
+}
